@@ -1,0 +1,103 @@
+    #fondo {
+        background-color: rgb(27, 52, 93);
+        width: 970px;
+        height: 550px;
+        vertical-align: top;
+        padding: 10px;
+    }
+    
+    #header {
+        background-color: rgb(207, 48, 54);
+        color: silver;
+        border-radius: 8px;
+        height: 50px;
+    }
+    
+    #menu {
+        background-color: rgb(41, 125, 140);
+        color: rgb(84, 197, 211);
+        display: inline-block;
+        border-radius: 8px;
+        width: 180px;
+        vertical-align: top;
+        margin-top: 15px;
+        text-decoration: underline;
+        font-size: 12px;
+    }
+    
+    #content {
+        background-color: rgb(14, 24, 34);
+        color: silver;
+        display: inline-block;
+        width: 776px;
+        border-radius: 8px;
+        margin-left: 10px;
+        margin-top: 15px;
+        font-size: 12px;
+    }
+    
+    #pie {
+        background-color: rgb(105, 102, 102);
+        color: silver;
+        border-radius: 15px;
+        height: 50px;
+        margin-top: 15px;
+        font-size: 13px;
+    }
+    
+    .Titulo {
+        padding-top: 10px;
+    }
+    
+    .main {
+        margin: 10px 0px 0px 9px;
+        padding: 0px 0px 0px 9px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    
+    .mains {
+        margin: 0px 10px 10px 5px;
+        padding: 0px 0px 0px 21px;
+        ;
+    }
+    
+    li span {
+        color: rgb(84, 197, 211);
+        text-decoration: underline;
+    }
+    
+    li b {
+        color: rgb(87, 103, 195);
+    }
+    
+    .cntenthead {
+        margin-top: 25px;
+        margin-left: 15px;
+    }
+    
+    .cntent {
+        margin: 15px;
+    }
+    
+    .cntents {
+        padding: 0px 10px 0px 27px;
+    }
+    
+    div a {
+        color: rgb(84, 197, 211);
+    }
+    
+    .Titulo {
+        margin-top: 1px;
+        margin-left: 20px;
+    }
+    
+    div p {
+        margin-left: 25px;
+    }
+    
+    .piepagina {
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
